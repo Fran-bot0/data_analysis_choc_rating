@@ -6,4 +6,4 @@ This is a project made for a R course in data analysis. It analyses data about t
 * ggplot2
 
 # Questions
-* What is the mean rating of chocolates by country over years.
+* What is the mean rating of chocolates by country over years?
